@@ -4,7 +4,7 @@
 
 
 ## Shiny interface
-Follow this [link](https://destyo.shinyapps.io/Probabilistic_Spreadsheet/) for the interactive Shiny app (currently under maintenance).  
+Follow this [link](https://destyo.shinyapps.io/Probabilistic_Spreadsheet/) for the interactive Shiny app.  
 
 [![Image from Gyazo](https://i.gyazo.com/912bbd6949ff15bb4fe837094897089f.png)](https://gyazo.com/912bbd6949ff15bb4fe837094897089f)
 
