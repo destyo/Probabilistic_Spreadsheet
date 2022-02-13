@@ -4,7 +4,7 @@
 
 
 ## Shiny interface
-Follow this [link](https://destyo.shinyapps.io/probabilistic_excel/) for the interactive Shiny app (currently under maintenance).  
+Follow this [link](https://destyo.shinyapps.io/Probabilistic_Spreadsheet/) for the interactive Shiny app (currently under maintenance).  
 
 [![Image from Gyazo](https://i.gyazo.com/912bbd6949ff15bb4fe837094897089f.png)](https://gyazo.com/912bbd6949ff15bb4fe837094897089f)
 
@@ -38,7 +38,7 @@ Se utiliza método monte carlo (simulaciones) para calcular los valores de la di
 - Gonzalo Aguiar Gonzalez-Aller - gonzalo.aguiar@cunef.edu
 
 ### Project Link
-https://github.com/AMM53/Probabilistic_Excel
+https://github.com/destyo/Probabilistic_Spreadsheet
 
 ## Acknowledgments
 
